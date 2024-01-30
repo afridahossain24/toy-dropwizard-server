@@ -1,8 +1,6 @@
 name: Continuous Integration Example - 1
 on:
   push:
-    branches:
-      main
 
 jobs:
   build-and-test-please:
